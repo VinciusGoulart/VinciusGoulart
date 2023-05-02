@@ -1,7 +1,9 @@
 ### Hi 👋 
 
-👀 I’m interested mostly in becoming a fullstack developer. 
+👀 I’m interested mostly in becoming a fullstack developer.
+
 🌱 I’m currently learning backend at the moment.
+
 💞️ I’m looking to collaborate in the learning of the community while I will be learning too. 
 
 ![https://github.com/VinciusGoulart](https://github-readme-stats.vercel.app/api?username=ViniciusGoulart)
